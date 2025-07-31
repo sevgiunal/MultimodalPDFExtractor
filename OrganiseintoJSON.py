@@ -71,7 +71,6 @@ for page in page_data:
                 "options": options
             })
 
-# STEP 2: Parse answers
 answer_pattern = r'(\d+)\.\s*(.*?)\nThe correct answer is:\s*([A-Z])\.?\s*(.*?)\n(.*?)(?=\n\d+\.\s|© BBC|\Z)'
 matches = re.findall(answer_pattern, answers_text, re.DOTALL)
 from fuzzywuzzy import fuzz
