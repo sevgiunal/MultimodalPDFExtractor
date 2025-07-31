@@ -110,17 +110,17 @@ To extract structured questions and answers (including image-based questions lik
 
 
 
-
----
-
 ## Requirements
+
+- **Python 3.7+ is required**
 
 Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
 ---
+```
+## Requirements
 
 ## Installation
 
