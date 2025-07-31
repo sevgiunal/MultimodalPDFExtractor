@@ -1,0 +1,752 @@
+[
+  {
+    "question_id": "0_1",
+    "question_type": "single_choice",
+    "question_text": "Which month had the highest average temperature?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_0_0_14.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "June"
+      },
+      {
+        "key": "B",
+        "text": "July"
+      },
+      {
+        "key": "C",
+        "text": "August"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "August . The peak point in the graph is for the month of August"
+  },
+  {
+    "question_id": "0_2",
+    "question_type": "single_choice",
+    "question_text": "Which month had the lowest average temperature?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_0_0_14.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "January"
+      },
+      {
+        "key": "B",
+        "text": "February"
+      },
+      {
+        "key": "C",
+        "text": "March"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "February. The lowest point of the graph is in the month of February"
+  },
+  {
+    "question_id": "0_3",
+    "question_type": "single_choice",
+    "question_text": "April and May have the same average temperature as June and July.",
+    "image": [
+      "data/images/BBCPaper.pdf_image_0_0_14.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "True"
+      },
+      {
+        "key": "B",
+        "text": "False"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "False. April and May have the same average temperature as November and December."
+  },
+  {
+    "question_id": "1_4",
+    "question_type": "single_choice",
+    "question_text": "Which make of car was the most popular?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_1_0_18.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Nissan"
+      },
+      {
+        "key": "B",
+        "text": "Vauxhall"
+      },
+      {
+        "key": "C",
+        "text": "Peugeot"
+      },
+      {
+        "key": "D",
+        "text": "Toyota"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "Nissan. It outsold all the other make of cars."
+  },
+  {
+    "question_id": "1_5",
+    "question_type": "single_choice",
+    "question_text": "Which 2 makes of car sold over 150 each?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_1_0_18.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Toyota and MG Rover"
+      },
+      {
+        "key": "B",
+        "text": "Toyota and Vauxhall"
+      },
+      {
+        "key": "C",
+        "text": "Vauxhall and Peugeot"
+      },
+      {
+        "key": "D",
+        "text": "Peugeot and MG Rover"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "Vauxhall and Peugeot. You can see that the bars for these makes, extend over the 150 mark."
+  },
+  {
+    "question_id": "1_6",
+    "question_type": "single_choice",
+    "question_text": "Which was the lowest selling make?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_1_0_18.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Land Rover"
+      },
+      {
+        "key": "B",
+        "text": "BMW"
+      },
+      {
+        "key": "C",
+        "text": "Jaguar"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "Jaguar. The bar for this make is the smallest of all."
+  },
+  {
+    "question_id": "2_7",
+    "question_type": "single_choice",
+    "question_text": "Here's how I spent the past 24 hours? Match the table and pie chart to find out what I spent",
+    "image": [
+      "data/images/BBCPaper.pdf_image_2_0_22.png",
+      "data/images/BBCPaper.pdf_image_2_1_24.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "working"
+      },
+      {
+        "key": "B",
+        "text": "sleeping"
+      },
+      {
+        "key": "C",
+        "text": "getting dressed"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "Working. I spent an hour more at work than I did sleeping."
+  },
+  {
+    "question_id": "2_8",
+    "question_type": "single_choice",
+    "question_text": "I spent more time on meals than travel and getting dressed combined.",
+    "image": [
+      "data/images/BBCPaper.pdf_image_2_0_22.png",
+      "data/images/BBCPaper.pdf_image_2_1_24.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "True"
+      },
+      {
+        "key": "B",
+        "text": "False"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "False I spent exactly the same amount of time on meals (2.25 hours) as getting dressed and travel \ncombined (1.75 + 0.5 = 2.25 hours)"
+  },
+  {
+    "question_id": "2_9",
+    "question_type": "single_choice",
+    "question_text": "I spent less time watching TV than on doing my household chores.",
+    "image": [
+      "data/images/BBCPaper.pdf_image_2_0_22.png",
+      "data/images/BBCPaper.pdf_image_2_1_24.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "True"
+      },
+      {
+        "key": "B",
+        "text": "False"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "False. In fact I spent MORE time watching TV (1.5 hours) than on chores (1.25 hours)"
+  },
+  {
+    "question_id": "2_10",
+    "question_type": "single_choice",
+    "question_text": "What did I spend the least amount of time doing?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_2_0_22.png",
+      "data/images/BBCPaper.pdf_image_2_1_24.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "swimming"
+      },
+      {
+        "key": "B",
+        "text": "getting dressed"
+      },
+      {
+        "key": "C",
+        "text": "household chores"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "getting dressed I spent only half an hour (0.5) getting dressed whereas I spent  three quarters of an hour \n(0.75) swimming."
+  },
+  {
+    "question_id": "3_1",
+    "question_type": "single_choice",
+    "question_text": "Choose the graph that best fits with this statement: \"House prices rose in January and",
+    "image": [
+      "data/images/BBCPaper.pdf_image_3_0_27.png",
+      "data/images/BBCPaper.pdf_image_3_1_28.png",
+      "data/images/BBCPaper.pdf_image_3_2_29.png",
+      "data/images/BBCPaper.pdf_image_3_3_30.png",
+      "data/images/BBCPaper.pdf_image_3_4_31.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "image": "data/images/BBCPaper.pdf_image_3_0_27.png"
+      },
+      {
+        "key": "B",
+        "image": "data/images/BBCPaper.pdf_image_3_1_28.png"
+      },
+      {
+        "key": "C",
+        "image": "data/images/BBCPaper.pdf_image_3_2_29.png"
+      },
+      {
+        "key": "D",
+        "image": "data/images/BBCPaper.pdf_image_3_3_30.png"
+      }
+    ],
+    "correct_answer": "D",
+    "answer_explanation": "The graph shows the line rising, then falling and finally flattening out."
+  },
+  {
+    "question_id": "3_2",
+    "question_type": "single_choice",
+    "question_text": "Choose the graph that best fits with this statement: \"The TV licence has been frozen for the",
+    "image": [
+      "data/images/BBCPaper.pdf_image_3_0_27.png",
+      "data/images/BBCPaper.pdf_image_3_1_28.png",
+      "data/images/BBCPaper.pdf_image_3_2_29.png",
+      "data/images/BBCPaper.pdf_image_3_3_30.png",
+      "data/images/BBCPaper.pdf_image_3_4_31.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "image": "data/images/BBCPaper.pdf_image_3_0_27.png"
+      },
+      {
+        "key": "B",
+        "image": "data/images/BBCPaper.pdf_image_3_1_28.png"
+      },
+      {
+        "key": "C",
+        "image": "data/images/BBCPaper.pdf_image_3_2_29.png"
+      },
+      {
+        "key": "D",
+        "image": "data/images/BBCPaper.pdf_image_3_3_30.png"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "Graph A is a horizontal straight line confirming that that there has been no rise or fall in cost."
+  },
+  {
+    "question_id": "3_3",
+    "question_type": "single_choice",
+    "question_text": "Choose the graph that best fits with this statement: \"This car has excellent acceleration\".",
+    "image": [
+      "data/images/BBCPaper.pdf_image_3_0_27.png",
+      "data/images/BBCPaper.pdf_image_3_1_28.png",
+      "data/images/BBCPaper.pdf_image_3_2_29.png",
+      "data/images/BBCPaper.pdf_image_3_3_30.png",
+      "data/images/BBCPaper.pdf_image_3_4_31.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "image": "data/images/BBCPaper.pdf_image_3_0_27.png"
+      },
+      {
+        "key": "B",
+        "image": "data/images/BBCPaper.pdf_image_3_1_28.png"
+      },
+      {
+        "key": "C",
+        "image": "data/images/BBCPaper.pdf_image_3_2_29.png"
+      },
+      {
+        "key": "D",
+        "image": "data/images/BBCPaper.pdf_image_3_3_30.png"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "The straight line shows that the car steadily picks up speed from a standstill position."
+  },
+  {
+    "question_id": "3_4",
+    "question_type": "single_choice",
+    "question_text": "Choose the graph that best fits with this statement: \"The price of groceries is still rising\".",
+    "image": [
+      "data/images/BBCPaper.pdf_image_3_0_27.png",
+      "data/images/BBCPaper.pdf_image_3_1_28.png",
+      "data/images/BBCPaper.pdf_image_3_2_29.png",
+      "data/images/BBCPaper.pdf_image_3_3_30.png",
+      "data/images/BBCPaper.pdf_image_3_4_31.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "image": "data/images/BBCPaper.pdf_image_3_0_27.png"
+      },
+      {
+        "key": "B",
+        "image": "data/images/BBCPaper.pdf_image_3_1_28.png"
+      },
+      {
+        "key": "C",
+        "image": "data/images/BBCPaper.pdf_image_3_2_29.png"
+      },
+      {
+        "key": "D",
+        "image": "data/images/BBCPaper.pdf_image_3_3_30.png"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "The line in this graph is rising  upwards. You might have thought that it could have been C, but the price of groceries could not be zero."
+  },
+  {
+    "question_id": "4_5",
+    "question_type": "single_choice",
+    "question_text": "Look at the Venn diagram. Which country is in the United Kingdom but not in Great Britain?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_4_0_34.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Northern Ireland"
+      },
+      {
+        "key": "B",
+        "text": "Republic of Ireland"
+      },
+      {
+        "key": "C",
+        "text": "Ireland"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "Northern Ireland. You can see that the circle labelled Great Britain does not include Northern Ireland."
+  },
+  {
+    "question_id": "4_6",
+    "question_type": "single_choice",
+    "question_text": "Look at the Venn diagram. How many countries are in included in the United Kingdom?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_4_0_34.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "4. The 4 countries are England, Wales, Scotland and Northern Ireland."
+  },
+  {
+    "question_id": "4_7",
+    "question_type": "single_choice",
+    "question_text": "From the Venn diagram, can you identify the 2 nations that make up the british Isles?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_4_0_34.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Great Britain and United Kingdom"
+      },
+      {
+        "key": "B",
+        "text": "United Kingdom and Northern Ireland"
+      },
+      {
+        "key": "C",
+        "text": "Republic of Ireland and Northern Ireland"
+      },
+      {
+        "key": "D",
+        "text": "United Kingdom and the Republic of Ireland"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "The British Isles are made up of the United Kingdom (which includes Great Britain and Northern Ireland) and the Republic of Ireland."
+  },
+  {
+    "question_id": "4_8",
+    "question_type": "single_choice",
+    "question_text": "Look at the Venn diagram. Northern Ireland is part of Ireland as well as the United Kingdom.",
+    "image": [
+      "data/images/BBCPaper.pdf_image_4_0_34.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "True"
+      },
+      {
+        "key": "B",
+        "text": "False"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "True. You can see that Northern Ireland is in the section which overlaps both the United Kingdom \nand Ireland circles"
+  },
+  {
+    "question_id": "5_9",
+    "question_type": "single_choice",
+    "question_text": "What service does the Council spend on the most?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_5_0_38.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Cultural, Environmental and Planning Services"
+      },
+      {
+        "key": "B",
+        "text": "Education Services"
+      },
+      {
+        "key": "C",
+        "text": "Adult Community Care"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "Adult Community Care You can see that the largest portion of the pie is coloured orange. It is also the highest \npercentage of the pie (30.2%)."
+  },
+  {
+    "question_id": "5_10",
+    "question_type": "single_choice",
+    "question_text": "What percentage of the Council's income is spent on Education?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_5_0_38.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "less than 15%"
+      },
+      {
+        "key": "B",
+        "text": "more than on Children and Families"
+      },
+      {
+        "key": "C",
+        "text": "less than on \"other\" services"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "more than on Children and Families The 17.2% spent on Education is greater than the 11.5% spending on Children and Families."
+  },
+  {
+    "question_id": "6_1",
+    "question_type": "single_choice",
+    "question_text": "We collected data about the colour of shoes worn by 30 adults in a group. From the bar chart,",
+    "image": [
+      "data/images/BBCPaper.pdf_image_6_0_42.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Black"
+      },
+      {
+        "key": "B",
+        "text": "Brown"
+      },
+      {
+        "key": "C",
+        "text": "Red"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "Brown. The tallest bar is for the colour black, and the second tallest bar is for the colour brown."
+  },
+  {
+    "question_id": "6_2",
+    "question_type": "single_choice",
+    "question_text": "From the bar chart, find the second most popular colour of shoes amongst women.",
+    "image": [
+      "data/images/BBCPaper.pdf_image_6_0_42.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "Black"
+      },
+      {
+        "key": "B",
+        "text": "Brown"
+      },
+      {
+        "key": "C",
+        "text": "Red"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "Red. The tallest bar for women is for the colour black, and the second tallest bar is for the colour red."
+  },
+  {
+    "question_id": "6_3",
+    "question_type": "single_choice",
+    "question_text": "From the bar chart, how many adults wore white shoes?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_6_0_42.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "Correct! 1 man and one woman had white shoes"
+  },
+  {
+    "question_id": "6_4",
+    "question_type": "single_choice",
+    "question_text": "From the bar chart, find the total number of women who took part in the survey of shoe",
+    "image": [
+      "data/images/BBCPaper.pdf_image_6_0_42.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "30"
+      },
+      {
+        "key": "B",
+        "text": "17"
+      },
+      {
+        "key": "C",
+        "text": "15"
+      },
+      {
+        "key": "D",
+        "text": "13"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "The number of learners we\u2019ve had in our college has dropped significantly over the last five years. The line on the graph has dropped sharply."
+  },
+  {
+    "question_id": "7_5",
+    "question_type": "single_choice",
+    "question_text": "Which of these statements best describes what is shown in the graph?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_7_0_46.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The number of learners we\u2019ve had in our college has dropped significantly over the last"
+      },
+      {
+        "key": "B",
+        "text": "There has been a small decrease in the number of learners in our college over the last"
+      },
+      {
+        "key": "C",
+        "text": "There has been no significant change in the number of learners in the last five years"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "There has been no significant change in the number of learners in the last five years. \nThe number of learners has not increased, nor has it dropped by over a 100. The line has \nonly a slight slope downwards"
+  },
+  {
+    "question_id": "7_6",
+    "question_type": "single_choice",
+    "question_text": "From the graph, what was the decrease in the number of learners between Years 1 and 2?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_7_0_46.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "20"
+      }
+    ],
+    "correct_answer": "B",
+    "answer_explanation": "15 In year 1 there were 545 learners, and in year 2 there were the 530. The decrease is 545 - \n530 =15"
+  },
+  {
+    "question_id": "7_7",
+    "question_type": "single_choice",
+    "question_text": "There was a small increase in numbers between Years 2 and 3 (see image above).",
+    "image": [
+      "data/images/BBCPaper.pdf_image_7_0_46.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "True"
+      },
+      {
+        "key": "B",
+        "text": "False"
+      }
+    ],
+    "correct_answer": "A",
+    "answer_explanation": "True. The learner numbers increased from 530 to 534"
+  },
+  {
+    "question_id": "7_8",
+    "question_type": "single_choice",
+    "question_text": "Which of these statements best describes what is shown in the graph?",
+    "image": [
+      "data/images/BBCPaper.pdf_image_7_0_46.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "The number of learners we\u2019ve had in our college has dropped by over a 100 over the last"
+      },
+      {
+        "key": "B",
+        "text": "There has been a small increase in the number of learners in our college over the last five"
+      },
+      {
+        "key": "C",
+        "text": "There has been no significant change in the number of learners in the last five years"
+      }
+    ]
+  },
+  {
+    "question_id": "8_9",
+    "question_type": "single_choice",
+    "question_text": "The number of learners in year 1 was about\u2026..",
+    "image": [
+      "data/images/BBCPaper.pdf_image_8_0_55.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "600"
+      },
+      {
+        "key": "B",
+        "text": "500"
+      },
+      {
+        "key": "C",
+        "text": "550"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "550 The line graph starts at a point halfway between the 500 and 600 mark."
+  },
+  {
+    "question_id": "8_10",
+    "question_type": "single_choice",
+    "question_text": "The number of learners in year 5 (see image above) was about\u2026..",
+    "image": [
+      "data/images/BBCPaper.pdf_image_8_0_55.png"
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "550"
+      },
+      {
+        "key": "B",
+        "text": "499"
+      },
+      {
+        "key": "C",
+        "text": "510"
+      }
+    ],
+    "correct_answer": "C",
+    "answer_explanation": "510 The point on the line graph for year 5 is definitely higher than 500 but not halfway between \n500 and 600."
+  }
+]
