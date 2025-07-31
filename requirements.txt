@@ -1,5 +1,5 @@
 requests
-PyMuPDF==1.22.5
+PyMuPDF
 tqdm
 fuzzywuzzy
 python-Levenshtein
