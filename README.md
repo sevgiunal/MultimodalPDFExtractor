@@ -184,7 +184,7 @@ python OrganiseintoJSON.py
 
 ---
 
-## 📂 Example Project Structure
+## Project Structure
 
 ```
 .
